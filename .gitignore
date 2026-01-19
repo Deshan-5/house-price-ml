@@ -1,2 +1,14 @@
-.DS_Store
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Data
 data/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
